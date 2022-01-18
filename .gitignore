@@ -24,11 +24,11 @@ yarn-error.log*
 
 
 # Folders
-.firebase/
+/.firebase
 
 # Files
-.firebaserc
-storage.rules
-database.rules.json
-firebase.json
+/.firebaserc
+/storage.rules
+/database.rules.json
+/firebase.json
 
