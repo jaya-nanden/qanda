@@ -1,0 +1,12 @@
+.title {
+    font-size: 60px;
+    font-family: 'Poppins', cursive;
+    font-weight: 900;
+    margin-bottom: 25px;
+}
+
+@media (max-width: 764px) {
+    .title {
+        font-size: 40px
+    }
+}
